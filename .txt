@@ -1,0 +1,25 @@
+*******Message Model*******
+
+zax(sender)----> "hello"
+riki(receiver)-->"Hii"
+
+
+_id =jksdjkn (mongoDB)
+senderId=67d33308b8dee3a768e9de0c
+receiverId=67d712894a31f498b8123c46
+Message= "hello"
+
+
+_id =jksdjkjhdfn (mongoDB)
+senderId=67d712894a31f498b8123c46
+receiverId=67d33308b8dee3a768e9de0c
+Message= "hi"
+
+
+
+Conversation Model
+
+
+_id = hksgdjfhsjghf (mongoDB)
+member[sendID,receiverId]
+Message[_id]

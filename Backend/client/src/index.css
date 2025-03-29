@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@plugin 'daisyui';
+
+.flex-ankit ::-webkit-scrollbar {
+  display: none;
+}
